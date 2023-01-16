@@ -1,5 +1,3 @@
 package io.juniorlima.jwtauth.model;
 
-public class LoginCredentials {
-
-}
+public class LoginCredentials {}

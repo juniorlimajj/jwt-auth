@@ -1,5 +1,3 @@
 package io.juniorlima.jwtauth.controller;
 
-public class AuthController {
-
-}
+public class AuthController {}
